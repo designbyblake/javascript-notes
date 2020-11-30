@@ -177,5 +177,3 @@ function caclulatePayment (price = isRequired('price'), salesTax = 0.047, discou
 
 }
 ```
-
-## Compiling vs Polyfills with Babel
